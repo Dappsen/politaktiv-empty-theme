@@ -1,0 +1,10 @@
+politaktiv-theme ReleaseNotes:
+==============================
+
+6.0.1.2 - 
+--------------------
+* Community-Select-portlet Styles refactored
+
+6.0.1.1 - 03.04.2013
+--------------------
+* initial
