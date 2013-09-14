@@ -1,0 +1,2 @@
+politaktiv-empty-theme
+======================
